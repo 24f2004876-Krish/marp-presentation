@@ -6,9 +6,7 @@ paginate-placement: bottom-right
 theme: custom-theme
 ---
 
-<!--
-Custom theme using Marp CSS variables
--->
+<!-- Custom Theme -->
 <style>
 section {
   font-family: "Segoe UI", sans-serif;
@@ -27,58 +25,41 @@ footer {
 }
 </style>
 
-# Product Documentation Presentation  
-**Email:** **24f2004876@ds.study.iitm.ac.in**
+# Product Documentation  
+**Email:** 24f2004876@ds.study.iitm.ac.in
 
 ---
 
 # Custom Theme Specification
 
-This presentation uses a **custom Marp theme** defined through:
+This presentation includes:
 
-- CSS variables  
-- Custom fonts  
-- Section styling  
-- Accent color theme  
-- Pagination enabled at bottom-right  
+- Marp directive header  
+- Custom CSS theme  
+- Pagination  
+- Background image  
+- Math equations  
+- Custom styling  
 
 ---
 
 <!-- Background image slide -->
-<!-- Use any public image -->
-<!-- Example image from Unsplash -->
 ![bg](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5)
 
 # System Architecture Overview
 
-This slide demonstrates:
-
-- Background image
-- Clear text layering
-- Marp background styling
+This slide demonstrates text on top of a background image.
 
 ---
 
 # Algorithmic Complexity
 
-We can express computational cost using math:
-
-### Time Complexity Example
-
 \[
 T(n) = 3n^2 + 2n + 5 = O(n^2)
 \]
 
-### Recurrence Example
-
 \[
-T(n) = 2T\left(\frac{n}{2}\right) + n
-\]
-
-Using Master Theorem:
-
-\[
-T(n) = O(n \log n)
+T(n) = 2T\left(\frac{n}{2}\right) + n = O(n \log n)
 \]
 
 ---
@@ -97,13 +78,11 @@ ul li {
 
 - Fast rendering  
 - Modular architecture  
-- Seamless version control  
-- Exportable to PDF/HTML  
+- Version-controlled  
+- Exportable to PDF  
 
 ---
 
 # Thank You
 
-For more details, contact:  
-📧 **24f2004876@ds.study.iitm.ac.in**
-
+Email: **24f2004876@ds.study.iitm.ac.in**
