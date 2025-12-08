@@ -153,17 +153,22 @@ A **RESTful API** that enables developers to integrate powerful data processing 
 
 ---
 
-<!-- backgroundImage: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&h=1080&fit=crop') -->
+<!-- backgroundImage: url('https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg') -->
 <!-- _color: white -->
 <!-- _header: '' -->
+<!-- _footer: '' -->
 
 # **Cloud Infrastructure**
 
 ## Distributed Across 15 Regions Globally
 
-- Multi-region deployment
-- Automatic failover
-- 99.99% uptime SLA
+<div style="background: rgba(0,0,0,0.7); padding: 30px; border-radius: 10px; margin-top: 50px;">
+
+- 🌍 Multi-region deployment
+- ♻️ Automatic failover
+- ✅ 99.99% uptime SLA
+
+</div>
 
 ---
 
